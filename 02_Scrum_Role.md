@@ -1,6 +1,6 @@
 # Scrum Roles and Responsibilities Document
 
-**Product Owner**
+**Product Owner** 
 * Defining and refining product requirements and vision[span_21](start_span)[span_21](end_span).
 * Creating and prioritizing the Product Backlog based on business value[span_22](start_span)[span_22](end_span).
 * Representing stakeholder interests and clarifying requirements[span_23](start_span)[span_23](end_span).
