@@ -1,4 +1,4 @@
-# Product Vision Document
+# Product Vision Document 
 
 ## Product Vision Statement
 "Develop a secure and user-friendly Student Record and Academic Management Platform that enables educational institutions to efficiently manage student records, attendance, academic performance, course registration, and reporting through a scalable web-based application.[span_9](start_span)"[span_9](end_span)
